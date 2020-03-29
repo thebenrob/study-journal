@@ -40,7 +40,7 @@ navigation:
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: 
 
 # Colors
 accent_color: '#2d72d9'
@@ -55,7 +55,7 @@ plugins:
   - jekyll-paginate
 
 # http://jekyllrb.com/docs/pagination/
-paginate: 3
+paginate: 5
 paginate_path: '/page:num/'
 
 
